@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710353779 source:c:\users\userp\documents\new folder\aplooxi\main.cpp
+	<iostream>
+	<fstream>
+
